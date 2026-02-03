@@ -7,3 +7,19 @@ why this press：
 MIT一直以前卫，胆大，责任心著称
 最近出版的相关的书：The Embodied Mind: Cognitive Science and Human Experience，the URL:
 https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human
+
+
+
+
+
+
+
+
+
+
+
+附件清单：
+Book Proposal；
+各章的简介；
+第一章原稿；
+Academic CV；
