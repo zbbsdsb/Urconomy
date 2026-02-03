@@ -8,7 +8,9 @@ MIT一直以前卫，胆大，责任心著称，在许多人心中，MIT也是�
 贵出版社最近出版的相关的书：The Embodied Mind: Cognitive Science and Human Experience，the URL:
 https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human
 
-我是ceaserzhao,yi
+我是ceaserzhao,一名来自中国的高中生，我对这个世界本身感到非常痴迷，我深爱着这个世界，
+
+很多同学说感觉我没有家人，他们并不是在咒骂我，而是感觉我独立过头了，感觉我每天在自己研究一堆东西，听到这些话时，我内心的情绪是很复杂的
 
 
 
