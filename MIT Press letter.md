@@ -23,3 +23,9 @@ Book Proposal；
 各章的简介；
 第一章原稿；
 Academic CV；
+
+
+感谢您，期待您的回信；
+我的真实名字：Zhao Wenzhang（Ceaserzhao）
+我的电话号码：+86 18380502661
+我的邮箱：chkevin.zhao@gmail.com/zhaoceaser@gmail.com
