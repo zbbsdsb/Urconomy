@@ -36,6 +36,9 @@ Book Proposal：
       Unique Selling Point：
       Target Audience：
       Competition：
+      Total Word Count：91000字左右；
+      Status of Work：现在完成了70%，预计于2026年3月完稿
+      Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分作为样章节；
 各章的简介；
           ### 1. 房间里的烟斗
 
