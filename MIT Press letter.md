@@ -38,7 +38,7 @@ Book Proposal：
       Competition：
       Total Word Count：91000字左右；
       Status of Work：现在完成了70%，预计于2026年3月完稿
-      Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分作为样章节；
+      Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分作为样章，都放到了附件里；
 各章的简介；
          
  ### 1. 房间里的烟斗
@@ -179,18 +179,13 @@ Book Proposal：
 - 11.e：最后的最后  
           
 
+Academic CV：
 
 
 
 
 
-
-
-
-
-
-第一章原稿；
-Academic CV；
+；
 
 
 感谢您，期待您的回信；
