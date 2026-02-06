@@ -36,6 +36,11 @@ Book Proposal：
       Unique Selling Point：
       Target Audience：
       Competition：
+1.我可以提供一个看世界全新的时间，不仅是一个Z世代，更是高压社会中在传统高中思考世界的异质感
+
+
+
+;
       Total Word Count：91000字左右；
       Status of Work：现在完成了70%，预计于2026年3月完稿
       Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分作为样章，都放到了附件里；
