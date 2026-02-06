@@ -37,8 +37,8 @@ Book Proposal：
       Target Audience：
       Competition：
 1.我可以提供一个看世界全新的时间，不仅是一个Z世代，更是高压社会中在传统高中思考世界的异质感
-
-
+2.市面上还没有一本书将思考当下快速演变的世界的主导权交给观众
+3.
 
 ;
       Total Word Count：91000字左右；
