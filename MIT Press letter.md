@@ -19,17 +19,6 @@ https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-a
 他实在是太擅长物理了，导致他对人类未来的理论产生了很多谬误（这个话题会在本书第四章详细探讨）
 
 
-
-
-
-
-
-
-
-
-
-
-
 附件清单：
 Book Proposal：
 
