@@ -11,7 +11,10 @@
    第三，我要感谢那些一直陪伴，鼓励我的兄弟们，其中zlx在我四岁的时候我们两个就互相认识了，他们是：
    zhang lixing
    natwd（benny liu）
-   没有你们的鼓励与陪伴
+   dengyunze
+   zhouyan ghengrui
+   teng pengfei
+   没有你们的鼓励与陪伴，这本书的完成将难如登天；
    
 
 
