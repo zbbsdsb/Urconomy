@@ -1,0 +1,1 @@
+gemini告诉amar engine（以下简称AME）世界的布局，东西的摆放位置
