@@ -31,6 +31,8 @@ Book Proposal：
 不分年龄，对这个世界充满好奇，拥有梦想与执行力的普通人
 ；
       Competition：
+     《浪潮将至》
+      
 
 
 
