@@ -1,251 +1,205 @@
-the letter theme:Book Proposal: Urconomy- how to deal with Godamn Era -Ceaserzhao
+# Book Proposal: Urconomy – How to Deal with the Godamn Era  
+**Author:** Ceaser Zhao  
 
-im ceaserzhao,a high school student from china,
-我想在MIT PRESS出版我的新书Urconomy，这本书的核心话题：在这个人类历史上从未有过的剧变时代，我们重新把视角聚焦到每一个个体，经济
-学家不再是房间里叼着烟斗的学者，而是每一个人，我们都会成为这个世界的观察者。
+Dear MIT Press Editors,
 
-why this press：
-MIT一直以前卫，胆大，责任心著称，在许多人心中，MIT Press也是图腾一般的存在。记得我人生第一本MIT press的书叫做《deep 
-learning》,我无法用言语表达我翻阅书时的震撼和欣喜。
+I am Ceaser Zhao, a high school student from China. I am writing to propose my new book, **Urconomy**, for publication with MIT Press.
 
-贵出版社最近出版的相关的书：The Embodied Mind: Cognitive Science and Human Experience，the URL:
-https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human
+At its core, *Urconomy* asks: In this era of unprecedented transformation in human history, how do we refocus our perspective onto the individual? Economics is no longer the domain of scholars puffing pipes in secluded rooms—it belongs to everyone. Each of us becomes an observer of this world.
 
-    我是ceaserzhao,一名来自中国的高中生，不过我会自诩为一个梦想家我对这个世界本身感到非常痴迷，我深爱着这个世界，
-如果别人让我为我自己做个定义，我首先会感到很排斥，给他人下定义是对自己大脑的放松，让你可以快速将周边的人归类，
-减少大脑的能量消耗了，但是我为什么要自己给自己下定义？虽然有书鼓励我们beyond the label，但不给自己贴标签岂不是更好？
-如果非要下一个定义，那我会把自己称为梦想家，而不是高中生，开发者，或者是语言学家（不过求职网站上大概不能这么写哈哈），
-我觉得用周边的社会叙事为人下定义本身就是一种对人性的磨灭；
-我对这个世界充满了敬畏和崇拜：不仅是对生命本身，更是对其在这个世界所表现出的性质，总会让我幻想我们与这个世界更加深层次的联系，
-秩序和混论的交界处，不仅是我们大脑最佳的运行方式，更是充满智慧的社会哲学；我坚信在不久的将来，混沌理论就会从物理渲染器里的NS方程
-变为一个深入百姓的理论，
-那也是AI浪潮汹涌时我们每个人对要都对自身进行审视，而只有理解混沌我们才可以理解自身的复杂，或许这也是马克思泰格马克作为物理学家所
-掉入的能力陷阱，
-他实在是太擅长物理了，导致他对人类未来的理论产生了很多谬误（这个话题会在本书第四章详细探讨），而这本书不会以一个讲述，而是会以一
-个探索的视角带领读者一步步地拨开我们所处的世界和未来的外壳；
-每一个章节的集成度也不一样，比如5，6章的集成度很低（因为每一个子章节讲的都是不同的东西），每一个子章节都像是一篇独立的文章，
-而4，7章（分别讲述AI和Metaverse，记得在几年前，他们两个总会被放到一起炒作，而现在后者已经不见了踪影）的集成度就非常高，也是我认
-为最浪漫的两个章节，就像是一部史诗，我撰写时的一大要求就是要让读者产生“我天，实在是太震撼了”的感觉。
+### Why MIT Press?
 
+MIT has always stood out for its boldness, intellectual courage, and sense of responsibility. To many—including me—MIT Press is nothing short of a totem. The first MIT Press book I ever read was *Deep Learning*. I still cannot put into words the awe and joy I felt turning its pages.
 
-
-以下是附件清单：
-Book Proposal：
-
-      Unique Selling Point：
-
-1.我可以提供一个看世界全新的视角，不仅是一个Z世代，更是高压社会中在传统高中思考世界的异质感
-2.市面上还没有一本书将思考当下快速演变的世界的主导权交给观众
-3.别的经济学书要么是从现在展望未来，要么是先回望过去，再为未来打上预防针，而本书不会去预测（因为这真的很蠢），
-我们会聚焦于当下和那些一定会发生的事情，就像我很早以前的一句口头禅：一如既往；
-；
-      Target Audience：
-不分年龄，对这个世界充满好奇，拥有梦想与执行力的普通人
-；
-      Competition：本书可以和下面四本书形成互补；
-     《The Coming Wave》
-     相比于《The Coming Wave》，本书更聚焦于AI和社会，以及未来（并且从更加哲学和认知科学的角度探讨了AI本身），而非《The
-      Coming Wave》所聚焦的政府干预
-     ；
-     《Out of Control》
-     本书讲述的内容（特别是3,7,9章）可以作为《Out of Control》所阐述的内容在现实世界的投影，没有那么多的幻想元素（因为《Out
-      of Control》实在是太老了）
-     ；
-     《Capital in the Twenty-First Century》
-     本书（urconomy）的5,6,8章可作为《Capital in the Twenty-First Century》的补充，也是在该书出版十余年后对书中所阐述的问题
-     的重新探讨，新技术带来了新的机遇
-     ；
-     《life 3.0》
-     本书具有前瞻性，作者是我非常崇拜的物理学家（他还上过lex的博客），但是出版时间较早，且部分内容和观点过于激进和悲观
-     ；
-     以下是这四本书的更多信息：
-     | 维度 | 《浪潮将至》 | 《失控》 | 《21世纪资本论》 | 《Life 3.0》 |
-|------|---------------|----------|-------------------|--------------|
-| 焦点 | 技术扩散与治理危机 | 系统自组织与演化 | 财富分配与不平等 | 人工智能与人类命运 |
-| 态度 | 警惕 + 呼吁管控 | 乐观 + 拥抱涌现 | 批判 + 制度改革 | 审慎 + 主动设计 |
-| 核心隐喻 | 海啸般的浪潮 | 蜂巢/变色龙 | 资本滚雪球 | 生命操作系统升级 |
-| 解决方案 | 技术刹车 + 全球监管 | 去中心化 + 开放生态 | 全球资本税 | AI对齐 + 价值嵌入 |
-
-
-
-
-
-
-;
-      Total Word Count：91000字左右（中文原稿）；
-      Status of Work：现在完成了70%，预计于2026年4月完稿
-      Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分（子章节6.2）作为样章，都放到了附件里；
-
-
-各章的简介；
-         
- ### 1. 房间里的烟斗
-
-在学术界里一直有一条鄙视链，数学高贵的矗立在公理之上，而在鄙视链的另一端，经济学却更像是一个玄学，  
-而经济学收到的误解还远不如此，它应该是一个全新的视角和态度，而不是一个和大众老百姓割裂的学科。
+I also note your recent publication of *The Embodied Mind: Cognitive Science and Human Experience* (https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human), which deeply resonates with the philosophical and cognitive themes in my work.
 
 ---
 
-### 2. 在车门上涂广告
+### About Me
 
-10年前，我们进入到了共享1.0时代，而现在，是时候再次翻新我们的思想了，有些东西  
-的免费在以前看来是非常不可思议的，而还有些东西是免费无法取代的。
+I am Ceaser Zhao—a high school student from mainland China, though I prefer to call myself a **dreamer**. I am utterly fascinated by the world itself and profoundly in love with existence.  
 
----
+If someone asked me to define myself, I would resist. Labeling others is a cognitive shortcut—it reduces mental load by categorizing people—but why should I label *myself*? While many books encourage us to “go beyond labels,” isn’t it better to avoid labeling altogether?  
 
-### 3. 古董
+If forced, I would call myself a **dreamer**—not a high school student, developer, or linguist (though I wouldn’t write that on a job application, haha). I believe defining people through societal narratives erases their humanity.
 
-那些拥有早期IBM主机的人一定是不可救药的电子发烧友，而现在，  
-如果你收藏一台3d打印机，你也会成为未来的青年极客所崇拜的对象。
+I hold deep reverence—not just for life, but for the qualities it manifests in this world. I often imagine a deeper connection between us and reality. The boundary between order and chaos is not only how our brains function best—it is also a profoundly wise social philosophy.
 
----
+I firmly believe that **chaos theory**, now confined to Navier-Stokes equations in physics-based renderers, will soon become common knowledge among the general public. As the AI wave surges, each of us must examine ourselves. Only by understanding chaos can we grasp our own complexity.
 
-### 4. 他们会夺走什么
+This is where figures like Max Tegmark—brilliant physicists—fall into a **competence trap**: their mastery of physics leads them to flawed conclusions about humanity’s future. (This topic is explored in depth in Chapter 4.)
 
-"他们会夺走什么？"当chatgpt横空出世时，这就是我的想法，而回答是：  
-如果我们齐心协力，那么他们大概率不会夺走什么，而且他们会让我们  
-迎来一个人类历史上从未有的黄金时代，只是此时此刻，我们需要解决一些问题。
+*Urconomy* does not lecture—it invites readers on an exploration, peeling back layers of our present world and possible futures.
 
----
-
-### 5. 另一个大陆的日出
-
-你或许从来没有想过也许在另一个平行宇宙里，自己生活在一个极度贫穷的国家（如果你有  
-闲心读这本书，那你大概率不会为温饱而焦虑）在那里，你的每一天会是什么样子？  
-不仅是贫困，我们对于自己年龄不同的人也存在这很大的误解，而这，会极大现在我们社会的潜能。
+The chapters vary in cohesion:  
+- Chapters 5 and 6 are loosely integrated; each subsection reads like an independent essay.  
+- Chapters 4 (on AI) and 7 (on the Metaverse)—once hyped together, now largely separated—are tightly woven epics. These are the most romantic chapters of the book. My goal while writing them was to make readers exclaim: *“Wow—this is absolutely mind-blowing!”*
 
 ---
 
-### 6. 在东方
+### Proposal Details
 
-十九世纪是英国的世纪，二十世纪是美国的世纪，而二十一世纪无疑是属于亚洲的，特别是远东，他们之中有的正全力飞奔，有的刚刚大病初
-愈，  
-但不管怎么样，他们之中的越来越多的国家会成为这个世界不可忽视的力量。
+#### Unique Selling Points:
+1. I offer a fresh perspective—not just as a Gen Z voice, but as someone navigating intense academic pressure in a traditional Chinese high school while maintaining a sense of alienation and wonder.
+2. No existing book hands the agency of interpreting our rapidly evolving world directly to the reader.
+3. Most economics books either project forward from the present or look backward to warn the future. *Urconomy* refuses prediction (which I consider foolish). Instead, we focus on **the present** and what **will inevitably happen**—a mindset captured in my longtime motto: *“As always.”*
+
+#### Target Audience:
+Curious, dream-driven individuals of any age who possess both imagination and the will to act.
+
+#### Competitive Landscape:
+*Urconomy* complements four major works:
+
+| Dimension | *The Coming Wave* | *Out of Control* | *Capital in the Twenty-First Century* | *Life 3.0* |
+|----------|-------------------|------------------|----------------------------------------|------------|
+| Focus | Tech diffusion & governance crisis | Self-organization & emergence | Wealth inequality | AI & human destiny |
+| Attitude | Caution + call for control | Optimistic + embrace emergence | Critical + institutional reform | Prudent + proactive design |
+| Core Metaphor | Tsunami-like wave | Hive / Chameleon | Snowballing capital | OS upgrade for life |
+| Solution | Tech brakes + global regulation | Decentralization + open ecosystems | Global wealth tax | AI alignment + value embedding |
+
+- Compared to *The Coming Wave*, *Urconomy* focuses more on AI’s societal impact through philosophical and cognitive science lenses, rather than government intervention.
+- Relative to *Out of Control*, *Urconomy* (especially Chapters 3, 7, 9) grounds Kevin Kelly’s visionary ideas in today’s reality—less speculative, more grounded (since *Out of Control* is now decades old).
+- Chapters 5, 6, and 8 of *Urconomy* revisit and update the questions raised in *Capital in the Twenty-First Century*, incorporating new technologies and opportunities over a decade later.
+- While I deeply admire Max Tegmark (*Life 3.0*)—a physicist I greatly respect (and who appeared on Lex Fridman’s podcast)—his book is somewhat dated and overly pessimistic in parts. *Urconomy* offers a more balanced, human-centered view.
+
+#### Manuscript Status:
+- **Total Word Count**: ~91,000 Chinese characters (original draft)
+- **Completion**: 70% complete
+- **Expected Completion**: April 2026
+- **Sample Chapters Attached**:  
+  - Chapter 1: *The Pipe in the Room* (introductory chapter)  
+  - Section 6.2 from Chapter 6: *Acceptance* (on China’s rise and social challenges)
 
 ---
 
-### 7. 造梦者
+### Chapter Summaries
 
-元宇宙正安静的躺在棺材里，而我们迟早会用最坚硬的斧头劈开它。当我们坐在tenerife的泰德峰上欣赏日落，我们不会相信我们所见的一切  
-或许真的只是在宇宙大爆炸那一刻就都确定好的马尔可夫过程。不过这根本不重要；  
-自由意志，虚拟的本质，这些以前我们不敢碰的课题。或许会因为元宇宙而让我们直面世界本质的那一刻提前来临。
+#### 1. The Pipe in the Room  
+Economics suffers from deep misunderstanding—it’s seen as mystical or elitist. But it should be a fresh lens, accessible to all, not divorced from everyday life.
+
+#### 2. Painting Ads on Car Doors  
+A decade ago, we entered “Sharing 1.0.” Now, it’s time to rethink everything. Some things being free once seemed impossible—yet other things can never be replaced by “free.”
+
+#### 3. Antiques  
+Those who collected early IBM mainframes were hopeless tech enthusiasts. Today, owning a 3D printer might make you a hero to future geeks.
+
+#### 4. What Will They Take Away?  
+When ChatGPT emerged, I asked: “What will they take?” Answer: If we act together, they’ll take nothing—and instead usher in humanity’s greatest golden age. But first, we must solve urgent problems.
+
+#### 5. Sunrise on Another Continent  
+Imagine living in extreme poverty in a parallel universe. (If you’re reading this, you likely don’t worry about survival.) Poverty isn’t the only blind spot—we also deeply misunderstand people of different ages, limiting society’s potential.
+
+#### 6. In the East  
+The 19th century belonged to Britain, the 20th to America—the 21st is Asia’s, especially the Far East. Some nations sprint forward; others recover from crisis. All are becoming forces the world cannot ignore.
+
+#### 7. Dreammakers  
+The metaverse lies quietly in its coffin—but we will one day split it open with the hardest axe. Sitting atop Mount Teide in Tenerife at sunset, we may doubt whether reality is just a Markov process fixed since the Big Bang. But that doesn’t matter. Topics once deemed untouchable—free will, the nature of the virtual—may soon force us to confront the essence of existence.
+
+#### 8. Crossing the Sea of Magma  
+We hate alarmism—yet the current world order *is* crumbling. Every nation faces unique crises and must find its niche in a new global ecology. Dangerous for individuals, yes—but for humanity, perhaps a rare opportunity: a springboard to a better world.
+
+#### 9. From Today On, It’s the Godamn Era  
+Every book changes you. This one will too. When tomorrow’s sunlight enters your room, you’ll begin a new day—and this book will become your past, and your asset. Embrace this era as the protagonist. Tell your story. It’s called the **Godamn Era**.
 
 ---
 
-### 8. 穿越岩浆之海
+### Full Table of Contents
 
-我们都很讨厌哪些耸人听闻的论调，但很不幸，我们所处的世界秩序真的在崩溃，不同的国家都正面临着自己的问题，  
-而他们也都需要在全新的世界格局中找到自己的生态位，这个时代对个人来讲同样很危险，不过从全人类的角度来说，  
-我们或许可以将其视为一个机遇，一个通向更好的世界的跳板。
+## 1. The Pipe in the Room  
+- 1.1 From the End (Patagonian Night, Ushuaia)  
+- 1.2 Everywhere (The Scope of Economics Is About to Expand Dramatically)  
+- 1.3 The Observer  
+
+## 2. Painting Ads on Car Doors  
+- 2.1 On-Demand (Rethinking Uber—and the miracle of summoning a black car with a tap)  
+- 2.2 Again (The Era of Sharing 2.0)  
+
+## 3. Antiques  
+- 3.1 Rising from the Ground  
+- 3.2 Frankenstein (Reimagining 3D Printing After the Hype Fades)  
+- 3.3 Free? No Thanks (What Matters More Than Free)  
+
+## 4. What Will They Take Away?  
+- 4.1 The Storm Arrives  
+- 4.2 I Don’t Know  
+- 4.3 The Trap (Max Tegmark’s Fallacy)  
+- 4.4 Painting Like a Gorilla (Human-AI Alignment)  
+- 4.5 The Cake Knife  
+- 4.6 Life 4.0  
+- 4.7 You Are the Protagonist  
+
+## 5. Sunrise on Another Continent  
+- 5.1 The Fried Chicken Queen (Wealth Inequality, referencing *Capital in the 21st Century*)  
+- 5.2 The Forgotten Ones (Systemic Flaws)  
+- 5.3 Young and Capable (Misunderstanding Youth)  
+- 5.4 Planet Elderly (Ageism as Wasted Potential)  
+
+## 6. In the East  
+- 6.1 Where I Stand (A Survey of Asian Youth)  
+- 6.2 Acceptance (China’s Rise and Social Challenges)  
+- 6.3 Has the Moment Come? (India’s Ascent)  
+- 6.4 Racing on the Cliff (Japan)  
+- 6.5 Pass the Story On (The Arab World)  
+- 6.6 You Can Board Now  
+
+## 7. Dreammakers  
+- 7.1 The Dream  
+- 7.2 The Coffin  
+- 7.3 Back Into the Dream  
+- 7.4 Our Journey (Virtualization as Human Destiny)  
+- 7.5 Another Sunrise  
+
+## 8. Crossing the Sea of Magma  
+- 8.1 Battle Royale  
+  - 8.1.1 Tragedy in the Snow (Gen Z Uprising in Nepal)  
+  - 8.1.2 The Emerald Scam (Sri Lanka’s Bankruptcy)  
+  - 8.1.3 By the Gas Station (Venezuela)  
+- 8.2 The Springboard  
+- 8.3 Through the Storm (For Nations and Individuals Alike)  
+
+## 9. From Today On, It’s the Godamn Era  
+- 9.1 Bootcamp (Continuous Self-Iteration)  
+- 9.2 The Next Word in Your Mind  
+- 9.3 When Sunlight Enters the Window (Reobserving the World—Welcome to the Godamn Era)  
+
+## 10. Acknowledgments  
+
+## 11. Appendices  
+- 11.a: Key Concepts  
+- 11.b: Original Manuscript Structure  
+- 11.c: More Stories  
+- 11.d: Oasis Album  
+- 11.e: The Very End  
 
 ---
 
-### 9. 今天起，就是godamn era
+### Academic Background
 
-每当读完一本书，你就成为了一个和原来不同的人，  
-这一次也一样，当明早的阳光照进你的房间时，你便开启了新的一天，  
-同样的，这本书也便成了你的过去，更是你的资产，愿你  
-以主角的身份拥抱这个全新的时代，向世界讲述你的故事，它叫做godamn era。
+I attend **Mianyang High School** (https://www.scmyzx.com.cn/), one of China’s most competitive traditional high schools (classes from 6:30 AM to 10:00 PM). As a member of the school’s robotics team, I have daily access to computers for personal projects.  
+- Project video: https://youtu.be/TnszWzsaZDM  
+- Personal website: https://ceaserlab.github.io/  
+- GitHub: https://github.com/zbbsdsb  
 
-；
+#### Selected Projects:
+1. **Wocon**: A travel app designed not to compete with Booking.com, but to surprise users at critical moments. Deployed via Cloudflare.  
+   → Organization: https://github.com/Wocon-org  
+2. **asalka_PBR**: A CPU-based physically-based path tracer written in C++17.  
+   → https://github.com/zbbsdsb/asalka_PBR  
+3. **AMAR Engine**: My most ambitious project—a novel 3D reconstruction tool (distinct from NeRF and Gaussian Splatting).  
+   → https://github.com/Oasis-Company/AMAR-Engine  
 
-本书的目录：
+- YouTube: https://www.youtube.com/@ceasernotfound  
 
-                
- # 子标题目录
+---
 
-## 1. 房间里的烟斗
-- 1.1 从尽头开始（巴塔哥尼亚的夜晚，乌斯怀亚）  
-- 1.2 无处不在（经济学的范围会引来一个很大的扩展）  
-- 1.3 观察者  
+Thank you very much for your time and consideration. I sincerely hope *Urconomy* finds a home at MIT Press.
 
-## 2. 在车门上涂广告
-- 2.1 随叫随到（重新思考 Uber，重新思考那些你习以为常的事：手指一按，一辆黑色轿车就会到你的面前——这不是一件很酷的事情吗？）  
-- 2.2 再来一次（共享 2.0 时代）  
+**Real Name**: Zhao Wenzhang (Ceaser Zhao)  
+**Phone**: +86 183 8050 2661 / +86 183 8050 2600  
+**Emails**:  
+- chkevin.zhao@gmail.com  
+- zhaoceaser@gmail.com  
+- 2791351776@qq.com  
 
-## 3. 古董
-- 3.1 拔地而起  
-- 3.2 科学怪人（过气之后对 3D 打印的新思考）  
-- 3.3 免费我也不要（比免费更重要的东西）  
-
-## 4. 他们会夺走什么
-- 4.1 风暴来袭  
-- 4.2 我不知道  
-- 4.3 陷阱（马克斯·泰格马克的谬论）  
-- 4.4 像大猩猩一样画画（人机对齐问题）
-- 4.5 蛋糕刀  
-- 4.6 生命 4.0  
-- 4.7 你是主角  
-
-## 5. 另一个大陆的日出
-- 5.1 炸鸡女王（贫富差距，重点引用《21 世纪资本论》）  
-- 5.2 被遗忘的人（系统性的缺陷）  
-- 5.3 年少有为（对幼稚的误解）  
-- 5.4 老年星球（对老年人的误解不仅是社会的遗憾，更是对潜能的漠视）  
-
-## 6. 在东方
-- 6.1 我所在的地方（亚洲青年概览）  
-- 6.2 接受（中国的崛起之路，以及面临的一堆社会问题）  
-- 6.3 或许那一刻来了？（印度开始崛起）  
-- 6.4 悬崖上飙车（日本）  
-- 6.5 把故事传下去（阿拉伯世界）  
-- 6.6 你可以上船了  
-
-## 7. 造梦者
-- 7.1 梦境  
-- 7.2 棺材  
-- 7.3 再入梦境  
-- 7.4 我们的旅程（虚拟化是人类的必然）  
-- 7.5 又一次日出  
-
-## 8. 穿越岩浆之海
-- 8.1 大逃杀  
-  - 8.1.1 雪山之殇（尼泊尔 Z 世代暴动）  
-  - 8.1.2 绿宝石的骗局（斯里兰卡破产）  
-  - 8.1.3 加油站旁（委内瑞拉）  
-- 8.2 跳板  
-- 8.3 穿越风暴（对国家还是对个人都是如此）  
-
-## 9. 今天起，就是 Godamn Era
-- 9.1 训练营（不断自我迭代）  
-- 9.2 脑海里的下一个单词  
-- 9.3 当阳光射进窗户（重新观察这个世界，欢迎来到 Godamn Era）  
-
-## 10. 致谢
-
-## 11. 附录
-- 11.a：全书关键概念  
-- 11.b：原稿结构  
-- 11.c：更多的故事  
-- 11.d：绿洲相册  
-- 11.e：最后的最后  
-          
-；
-
-
-
-Academic CV：
-mianyang high school（(https://www.scmyzx.com.cn/)），是一所传统意义上的中国顶尖高中，竞争压力非常大，早上6点多上课，晚上十
-点放学，
-我是该校的机器人社团成员，所以每天我都可以使用电脑进行自己的项目（相关视频：https://youtu.be/TnszWzsaZDM）
-我的个人网页：https://ceaserlab.github.io/
-我的github：https://github.com/zbbsdsb
-我的一些github项目：
-1.Wocon：我开发的旅游APP，并非要和bookingcom对抗，而是抢占关键时刻给你一个惊喜这个细分市场，网站已由cloudflare部署，
-该组织的github：https://github.com/Wocon-org
-2.asalka：一个物理渲染器，：https://github.com/zbbsdsb/asalka_PBR
-3.AMAR Engine：我目前最宏大的一个计划，是一个3维重建工具（不同于NeRF，高斯喷溅），我亲爱的教授，请敬请期待：https://github.
-com/Oasis-Company/AMAR-Engine
-我的youtube：https://www.youtube.com/@ceasernotfound
-；
-
-
-感谢您，期待您的回信；
-我的真实名字：Zhao Wenzhang（Ceaserzhao）
-我的电话号码：+86 18380502661；
-  +86 18380502600；
-我的邮箱：chkevin.zhao@gmail.com
-；
-zhaoceaser@gmail.com；
-2791351776@qq.com；
-
+With gratitude,  
+Ceaser Zhao
