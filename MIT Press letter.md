@@ -45,7 +45,7 @@ Book Proposal：
       Competition：
      《浪潮将至》，
      ；
-     《》
+     《失控》
      ；
      《》
      ；
@@ -58,7 +58,7 @@ Book Proposal：
 ;
       Total Word Count：91000字左右；
       Status of Work：现在完成了70%，预计于2026年4月完稿
-      Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分作为样章，都放到了附件里；
+      Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分（子章节6.2）作为样章，都放到了附件里；
 
 
 各章的简介；
@@ -209,11 +209,20 @@ Book Proposal：
 
 
 Academic CV：
-mianyang high school
+mianyang high school（学校的网址）
 ；
 
 
 感谢您，期待您的回信；
 我的真实名字：Zhao Wenzhang（Ceaserzhao）
-我的电话号码：+86 18380502661
-我的邮箱：chkevin.zhao@gmail.com/zhaoceaser@gmail.com
+我的电话号码：+86 18380502661；
+  +86 18380502600；
+我的邮箱：chkevin.zhao@gmail.com
+；
+zhaoceaser@gmail.com；
+2791351776@qq.com；
+
+
+
+现在准备：学校网址；
+competition部分；
