@@ -56,7 +56,7 @@ Book Proposal：
 
 
 ;
-      Total Word Count：91000字左右；
+      Total Word Count：91000字左右（中文原稿）；
       Status of Work：现在完成了70%，预计于2026年4月完稿
       Sample Chapters：这里我会提供第一章（引子）和第六章有关中国的部分（子章节6.2）作为样章，都放到了附件里；
 
