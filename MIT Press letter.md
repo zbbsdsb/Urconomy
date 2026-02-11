@@ -42,14 +42,16 @@ Book Proposal：
       Target Audience：
 不分年龄，对这个世界充满好奇，拥有梦想与执行力的普通人
 ；
-      Competition：
+      Competition：本书可以和下面四本书形成互补；
      《The Coming Wave》，
      ；
      《Out of Control》
      ；
      《Capital in the Twenty-First Century》
+     
      ；
      《life 3.0》
+     本书具有前瞻性，但是出版时间较早，且部分内容和观点过于激进和悲观
      ；
      以下是这四本书的更多信息：
      | 维度 | 《浪潮将至》 | 《失控》 | 《21世纪资本论》 | 《Life 3.0》 |
