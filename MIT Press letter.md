@@ -225,12 +225,18 @@ Book Proposal：
 
 
 Academic CV：
-mianyang high school（学校的网址），是一所传统意义上的中国顶尖高中，竞争压力非常大，早上6点多上课，晚上十点放学，
+mianyang high school（(https://www.scmyzx.com.cn/)），是一所传统意义上的中国顶尖高中，竞争压力非常大，早上6点多上课，晚上十
+点放学，
 我是该校的机器人社团成员，所以每天我都可以使用电脑进行自己的项目（相关视频：https://youtu.be/TnszWzsaZDM）
+我的个人网页：https://ceaserlab.github.io/
 我的github：https://github.com/zbbsdsb
 我的一些github项目：
-1.Wocon：我开发的旅游APP，并非要和bookingcom对抗，而是抢占关键时刻给你一个惊喜这个细分市场
-我的youtube：
+1.Wocon：我开发的旅游APP，并非要和bookingcom对抗，而是抢占关键时刻给你一个惊喜这个细分市场，网站已由cloudflare部署，
+该组织的github：https://github.com/Wocon-org
+2.asalka：一个物理渲染器，：https://github.com/zbbsdsb/asalka_PBR
+3.AMAR Engine：我目前最宏大的一个计划，是一个3维重建工具（不同于NeRF，高斯喷溅），我亲爱的教授，请敬请期待：https://github.
+com/Oasis-Company/AMAR-Engine
+我的youtube：https://www.youtube.com/@ceasernotfound
 ；
 
 
@@ -243,7 +249,3 @@ mianyang high school（学校的网址），是一所传统意义上的中国顶
 zhaoceaser@gmail.com；
 2791351776@qq.com；
 
-
-
-现在准备：学校网址；
-competition部分；
