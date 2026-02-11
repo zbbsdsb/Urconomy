@@ -43,10 +43,13 @@ Book Proposal：
 不分年龄，对这个世界充满好奇，拥有梦想与执行力的普通人
 ；
       Competition：本书可以和下面四本书形成互补；
-     《The Coming Wave》，
+     《The Coming Wave》
+     相比于《The Coming Wave》，本书更聚焦于AI和社会，以及未来（并且从更加哲学和认知科学的角度探讨了AI本身），而非《The
+      Coming Wave》所聚焦的政府干预
      ；
      《Out of Control》
-
+     本书讲述的内容（特别是3,7,9章）可以作为《Out of Control》所阐述的内容在现实世界的投影，没有那么多的幻想元素（因为《Out
+      of Control》实在是太老了）
      ；
      《Capital in the Twenty-First Century》
      本书（urconomy）的5,6,8章可作为《Capital in the Twenty-First Century》的补充，也是在该书出版十余年后对书中所阐述的问题
