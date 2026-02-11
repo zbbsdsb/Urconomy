@@ -2,14 +2,16 @@ the letter theme:Book Proposal: Urconomy- how to deal with Godamn Era -Ceaserzha
 
 im ceaserzhao,a high school student from china,
 我想在MIT PRESS出版我的新书Urconomy，这本书的核心话题：在这个人类历史上从未有过的剧变时代，我们重新把视角聚焦到每一个个体，经济
-学家不再是房间里叼着烟斗的学者，而是每一个人，我们都会成为这个世界的观察者
+学家不再是房间里叼着烟斗的学者，而是每一个人，我们都会成为这个世界的观察者。
 
 why this press：
-MIT一直以前卫，胆大，责任心著称，在许多人心中，MIT也是图腾一般的存在。
+MIT一直以前卫，胆大，责任心著称，在许多人心中，MIT Press也是图腾一般的存在。记得我人生第一本MIT press的书叫做《deep 
+learning》,我无法用言语表达我翻阅书时的震撼和欣喜。
+
 贵出版社最近出版的相关的书：The Embodied Mind: Cognitive Science and Human Experience，the URL:
 https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human
 
-我是ceaserzhao,一名来自中国的高中生，我对这个世界本身感到非常痴迷，我深爱着这个世界，
+    我是ceaserzhao,一名来自中国的高中生，不过我会自诩为一个梦想家我对这个世界本身感到非常痴迷，我深爱着这个世界，
 如果别人让我为我自己做个定义，我首先会感到很排斥，给他人下定义是对自己大脑的放松，让你可以快速将周边的人归类，
 减少大脑的能量消耗了，但是我为什么要自己给自己下定义？虽然有书鼓励我们beyond the label，但不给自己贴标签岂不是更好？
 如果非要下一个定义，那我会把自己称为梦想家，而不是高中生，开发者，或者是语言学家（不过求职网站上大概不能这么写哈哈），
@@ -27,20 +29,28 @@ https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-a
 
 
 
-附件清单：
+以下是附件清单：
 Book Proposal：
 
       Unique Selling Point：
 
 1.我可以提供一个看世界全新的视角，不仅是一个Z世代，更是高压社会中在传统高中思考世界的异质感
 2.市面上还没有一本书将思考当下快速演变的世界的主导权交给观众
-3.别的经济学书要么是从现在展望未来，要么是先回望过去，再为未来打上预防针，而本书不会去预测（因为这真的很蠢）
+3.别的经济学书要么是从现在展望未来，要么是先回望过去，再为未来打上预防针，而本书不会去预测（因为这真的很蠢），
+我们会聚焦于当下和那些一定会发生的事情，就像我很早以前的一句口头禅：一如既往；
 ；
       Target Audience：
 不分年龄，对这个世界充满好奇，拥有梦想与执行力的普通人
 ；
       Competition：
-     《浪潮将至》
+     《浪潮将至》，
+     ；
+     《》
+     ；
+     《》
+     ；
+     《》
+     ；
 
 
 
