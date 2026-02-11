@@ -46,12 +46,14 @@ Book Proposal：
      《The Coming Wave》，
      ；
      《Out of Control》
+
      ；
      《Capital in the Twenty-First Century》
-     
+     本书（urconomy）的5,6,8章可作为《Capital in the Twenty-First Century》的补充，也是在该书出版十余年后对书中所阐述的问题
+     的重新探讨，新技术带来了新的机遇
      ；
      《life 3.0》
-     本书具有前瞻性，但是出版时间较早，且部分内容和观点过于激进和悲观
+     本书具有前瞻性，作者是我非常崇拜的物理学家（他还上过lex的博客），但是出版时间较早，且部分内容和观点过于激进和悲观
      ；
      以下是这四本书的更多信息：
      | 维度 | 《浪潮将至》 | 《失控》 | 《21世纪资本论》 | 《Life 3.0》 |
