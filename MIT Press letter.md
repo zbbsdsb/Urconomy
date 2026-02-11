@@ -225,7 +225,12 @@ Book Proposal：
 
 
 Academic CV：
-mianyang high school（学校的网址）
+mianyang high school（学校的网址），是一所传统意义上的中国顶尖高中，竞争压力非常大，早上6点多上课，晚上十点放学，
+我是该校的机器人社团成员，所以每天我都可以使用电脑进行自己的项目（相关视频：https://youtu.be/TnszWzsaZDM）
+我的github：https://github.com/zbbsdsb
+我的一些github项目：
+1.Wocon：我开发的旅游APP，并非要和bookingcom对抗，而是抢占关键时刻给你一个惊喜这个细分市场
+我的youtube：
 ；
 
 
