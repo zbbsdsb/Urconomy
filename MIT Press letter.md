@@ -43,13 +43,13 @@ Book Proposal：
 不分年龄，对这个世界充满好奇，拥有梦想与执行力的普通人
 ；
       Competition：
-     《浪潮将至》，
+     《The Coming Wave》，
      ；
-     《失控》
+     《Out of Control》
      ；
-     《》
+     《Capital in the Twenty-First Century》
      ；
-     《》
+     《life 3.0》
      ；
 
 
