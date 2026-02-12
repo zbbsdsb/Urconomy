@@ -3,6 +3,8 @@
 
 Dear MIT Press Editors,
 
+"I am reaching out to you because of your passion for books that bridge the sciences and the humanities. My project, Urconomy, explores the intersection of cognitive science, AI, and the individual’s role in a chaotic era—topics I see reflected in your distinguished list, from consciousness to free will. As a first-time author, I am inspired by your commitment to nurturing new voices who challenge established boundaries."
+
 I am Ceaser Zhao, a high school student from China. I am writing to propose my new book, **Urconomy**, for publication with MIT Press.
 
 At its core, *Urconomy* asks: In this era of unprecedented transformation in human history, how do we refocus our perspective onto the individual? Economics is no longer the domain of scholars puffing pipes in secluded rooms—it belongs to everyone. Each of us becomes an observer of this world.
