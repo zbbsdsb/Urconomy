@@ -145,8 +145,8 @@ Every book changes you. This one will too. When tomorrow’s sunlight enters you
 - 6.6 You Can Board Now  
 
 ## 7. Dreammakers  
-- 7.1 The Dream  
-- 7.2 The Coffin  
+- 7.1 The Coffin   
+- 7.2 The Dream
 - 7.3 Back Into the Dream  
 - 7.4 Our Journey (Virtualization as Human Destiny)  
 - 7.5 Another Sunrise  
