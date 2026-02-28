@@ -5,14 +5,11 @@
 - 1.2 Everywhere at Once (The scope of economics is about to expand dramatically)  
 - 1.3 The Observer  
 
-## 2. Painting Ads on Car Doors
-- 2.1 On Demand (Rethinking Uber—and everything you take for granted: tap a button, and a black car appears. Isn’t that pretty cool?)  
-- 2.2 One More Time (The Era of Sharing 2.0)  
+## 2. Giant Tree
+
 
 ## 3. Antiques
-- 3.1 Rising from the Ground  
-- 3.2 Frankenstein (Revisiting 3D printing after its hype has faded)  
-- 3.3 I Don’t Want It—Even If It’s Free (Something more valuable than free)  
+Not decided yet 
 
 ## 4. What Will They Take Away?
 - 4.1 The Storm Is Coming  
