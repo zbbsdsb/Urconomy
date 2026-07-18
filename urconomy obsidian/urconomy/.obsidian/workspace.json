@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffac86abe6371d79",
+        "id": "cd5e82830a031a65",
         "type": "tabs",
         "children": [
           {
-            "id": "c30a3a749f6b5aa6",
+            "id": "c9d4fb63ec63d205",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,117 +18,17 @@
             }
           },
           {
-            "id": "6a075d2316726c0e",
+            "id": "446d99ea08b82c77",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "af8a9eac422feda5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "3f765fdb43322df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "b00304f5f9853bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 4"
-            }
-          },
-          {
-            "id": "2f6875dcff4da0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 5"
-            }
-          },
-          {
-            "id": "7e5ecc67c6ca97fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amar engine obisidian/gemini 和 amar engine 的交互方式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gemini 和 amar engine 的交互方式"
-            }
-          },
-          {
-            "id": "53ab036180d0dbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 7"
-            }
-          },
-          {
-            "id": "32a4044adde11d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amar engine obisidian/gemini 和 amar engine 的交互方式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gemini 和 amar engine 的交互方式"
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,7 +171,8 @@
               "title": "未命名 1 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -288,23 +189,31 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c30a3a749f6b5aa6",
+  "active": "446d99ea08b82c77",
   "lastOpenFiles": [
-    "amar engine obisidian/gemini 和 amar engine 的交互方式.md",
-    "未命名 2.base",
-    "未命名.md",
-    "未命名 8.md",
-    "未命名 3.md",
-    "未命名 7.md",
-    "amar engine obisidian",
-    "未命名 6.md",
-    "未命名 5.md",
+    "未命名 5.canvas",
+    "2026-05-31.md",
+    "未命名 3.base",
+    "未命名 4.canvas",
+    "未命名 1.base",
     "未命名 4.md",
     "未命名 2.md",
-    "未命名 1.md",
-    "未命名 1.base",
+    "amar engine obisidian/gemini 和 amar engine 的交互方式.md",
+    "未命名 7.md",
+    "未命名 5.md",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名.md",
     "未命名.base",
     "欢迎.md",
+    "未命名 2.base",
+    "未命名 8.md",
+    "未命名 3.md",
+    "amar engine obisidian",
+    "未命名 6.md",
+    "未命名 1.md",
     "urconomy"
   ]
 }
